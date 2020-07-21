@@ -121,7 +121,7 @@ key: <new-word>
 tweet =
 ```
 
-To try out, go to https://thoughts.sushant-kumar.com/\<new-word>
+To try out, go to https://thoughts.sushant-kumar.com/NEW_WORD
 
 # 4. [Emoji storytelling](https://andrewmayneblog.wordpress.com/2020/06/24/open-ai-alchemy-emoji-storytelling/)
 
