@@ -4,9 +4,10 @@ Some people say this could become a new programming paradigm. So let's see what 
 
 Feel free to create a PR to add a new example.
 
-### Parameters ([Credit](https://twitter.com/pujaarajan/status/1285147448181022721))
+<details>
+<summary>Parameters</summary>
 
-| Parameter               | Description                                        |
+| Parameter               | Description )                                      |
 | ----------------------- | -------------------------------------------------- |
 | Prompt                  | Input text                                         |
 | Max_tokens              | Output token length                                |
@@ -18,7 +19,11 @@ Feel free to create a PR to add a new example.
 | Logprobs - High logprob | model is more confident                            |
 | Stop                    | Where API will stop generating further tokens      |
 
+_[Credit](https://twitter.com/pujaarajan/status/1285147448181022721)_
+
 This collection focuses on the input _prompt_.
+
+</details>
 
 # [Layout Generator](https://twitter.com/sharifshameem/status/1282676454690451457)
 
@@ -32,7 +37,7 @@ description: a blue box that contains yellow circles with red borders
 code: <div style={{backgroundColor: ‘blue', padding: 20}}><div style={{backgroundColor: ‘yellow', border: '5px solid red', borderRadius: '50%', padding: 20, width: 100, height: 100}}>
 ```
 
-See [Tweet](https://twitter.com/sharifshameem/status/1282676454690451457) for .
+See [Tweet](https://twitter.com/sharifshameem/status/1282676454690451457) for results.
 
 # [Simple (Q&A)](http://lacker.io/ai/2020/07/06/giving-gpt-3-a-turing-test.html)
 
