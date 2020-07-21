@@ -1,10 +1,10 @@
-We have seen many impressive demos of OpenAI, but they never show the prompts that was given to the model. Much of the work is trying to figure out the right prompt. This repository is a collection of inputs and outputs that was given to the model.
+We have seen many impressive demos of OpenAI, but you never see the input prompt. Much of the work is trying to figure out the right prompt.
 
-Some people are saying that this is a new way to program. To see what the syntax is like, it's helpful to see what some of the common patterns are.
+Some people say this could become a new programming paradigm. So let's see what the syntax is like.
 
 Feel free to create a PR to add a new example.
 
-# Parameters ([Credit](https://twitter.com/pujaarajan/status/1285147448181022721))
+### Parameters ([Credit](https://twitter.com/pujaarajan/status/1285147448181022721))
 
 | Parameter               | Description                                        |
 | ----------------------- | -------------------------------------------------- |
@@ -18,7 +18,7 @@ Feel free to create a PR to add a new example.
 | Logprobs - High logprob | model is more confident                            |
 | Stop                    | Where API will stop generating further tokens      |
 
-This collection **only** focuses on the input _prompt_.
+This collection focuses on the input _prompt_.
 
 # [Layout Generator](https://twitter.com/sharifshameem/status/1282676454690451457)
 
@@ -32,7 +32,7 @@ description: a blue box that contains yellow circles with red borders
 code: <div style={{backgroundColor: ‘blue', padding: 20}}><div style={{backgroundColor: ‘yellow', border: '5px solid red', borderRadius: '50%', padding: 20, width: 100, height: 100}}>
 ```
 
-## See [Tweet](https://twitter.com/sharifshameem/status/1282676454690451457) for results
+See [Tweet](https://twitter.com/sharifshameem/status/1282676454690451457) for .
 
 # [Simple (Q&A)](http://lacker.io/ai/2020/07/06/giving-gpt-3-a-turing-test.html)
 
@@ -57,7 +57,7 @@ Q: Who won the World Series in 1995?
 A: The Atlanta Braves won the World Series in 1995.
 ```
 
-## See [Giving GPT-3 a Turing Test](http://lacker.io/ai/2020/07/06/giving-gpt-3-a-turing-test.html) for results.
+See [Giving GPT-3 a Turing Test](http://lacker.io/ai/2020/07/06/giving-gpt-3-a-turing-test.html) for results.
 
 By default, it doesn't know when to say: _I don't know._ The next example tries to solve this problem.
 
@@ -96,8 +96,6 @@ A: yo be real
 Q: Which colorless green ideas speak furiously
 A: yo be real
 ```
-
-## Examples
 
 # [Tweet Generator](https://twitter.com/sushant_kumar/status/1283314235842297856)
 
