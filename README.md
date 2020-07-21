@@ -25,6 +25,14 @@ This collection focuses on the input _prompt_.
 
 </details>
 
+# [Figma design plugin](https://twitter.com/jsngr/status/1284511080715362304)
+
+Blog post: https://ibuildmyideas.substack.com/p/i-build-my-ideas-8-071920
+
+## Prompt (everything above dashed line)
+
+![Figma prompt](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa8b16e97-e29b-4ce7-8766-53f5ff775da7_3104x2024.png)
+
 # [Layout Generator](https://twitter.com/sharifshameem/status/1282676454690451457)
 
 ## Prompt
@@ -153,14 +161,6 @@ Death Note: 📖🔪🔫🗡
 Frozen: 🌬👧🏻👧🏻🌲
 The Hunger Games: 🏹🥊🌽🏆
 ```
-
-# [Figma design plugin](https://twitter.com/jsngr/status/1284511080715362304)
-
-Blog post: https://ibuildmyideas.substack.com/p/i-build-my-ideas-8-071920
-
-## Prompt (everything above dashed line)
-
-![Figma prompt](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa8b16e97-e29b-4ce7-8766-53f5ff775da7_3104x2024.png)
 
 # [Writing a pop song](https://arr.am/2020/07/09/gpt-3-an-ai-thats-eerily-good-at-writing-almost-anything/)
 
